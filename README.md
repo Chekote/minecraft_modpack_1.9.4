@@ -31,3 +31,10 @@ Adds many tiered chests, each of which are progressively more expensive to make,
 
 Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
 
+##What am I looking at (Waila) 1.7.0-B3 by ProfMobius
+
+Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
+
+How to use: It's pretty much automatic. Although you can bring up the Waila menu with numpad 0, and enable / disable it with numpad 1.
+
+[Donate](http://www.patreon.com/profmobius), [Download](http://curse.com/mc-mods/minecraft/waila/2215443), [License](http://www.apache.org/licenses/LICENSE-2.0.html), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1846244), Reddit: Not Available, [Source](https://bitbucket.org/ProfMobius/waila), [Spotlight](https://www.youtube.com/watch?v=y1wN8XPgRU4), [Twitter](https://twitter.com/ProfMobius)
