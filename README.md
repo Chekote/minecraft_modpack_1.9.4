@@ -14,3 +14,14 @@ Blood Magic is an arcane art that is practiced by mages who attempt to gather a 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J7SNY7L82PQ82), [Download](http://minecraft.curseforge.com/projects/blood-magic/files), IRC: Not Available, [License](http://creativecommons.org/licenses/by/4.0/), [Minecraft Forum](http://www.minecraftforum.net/topic/1899223), Reddit: Not Available, [Source](https://github.com/WayofTime/BloodMagic), [Spotlight](https://www.youtube.com/watch?v=TKK2Eu-jsJM), [Twitter](https://twitter.com/WayofTime)
 
+##Inventory Tweaks 1.61-dev-53 by Kobata
+
+This client mod allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will make you gain a massive amount of time!
+
+* It automatically replaces your tools as they break, and item stacks once emptied
+* It sorts your inventory and your chests in a single click/keystroke
+* It provides lots of powerful shortcuts to move items around
+* It allows you to customize entirely the way your inventory is sorted, thanks to clever configuration files
+
+Donate: Not Available, [Download](http://minecraft.curseforge.com/projects/inventory-tweaks/files), [IRC](http://webchat.esper.net/?channels=inventorytweaks), [License](https://github.com/mkalam-alami/inventory-tweaks/blob/develop/LICENSE.md), [Minecraft Forum](http://www.minecraftforum.net/topic/1720872), Reddit: Not Available, [Source](https://github.com/Kobata/inventory-tweaks), [Spotlight](https://www.youtube.com/watch?v=1of4502m_c8), Twitter: Not Available
+
