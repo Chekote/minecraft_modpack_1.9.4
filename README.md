@@ -31,6 +31,12 @@ Adds many tiered chests, each of which are progressively more expensive to make,
 
 Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
 
+##Just Enough Items 3.4.3.207 by MEzz
+
+JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
+
+[Donate](https://www.patreon.com/mezz), [Download](http://minecraft.curseforge.com/projects/just-enough-items-jei/files), IRC: Not Available, [License](http://minecraft.curseforge.com/projects/just-enough-items-jei/license), Minecraft Forum: Not Available, Reddit: Not Available, [Source](https://github.com/mezz/JustEnoughItems), [Spotlight](https://www.youtube.com/watch?v=j39wdC2d4XA), [Twitter](https://twitter.com/mezz_mc)
+
 ##What am I looking at (Waila) 1.7.0-B3 by ProfMobius
 
 Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
