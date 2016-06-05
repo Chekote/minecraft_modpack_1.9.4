@@ -44,6 +44,14 @@ JEI is an item and recipe viewing mod for Minecraft, built from the ground up fo
 
 [Donate](https://www.patreon.com/mezz), [Download](http://minecraft.curseforge.com/projects/just-enough-items-jei/files), IRC: Not Available, [License](http://minecraft.curseforge.com/projects/just-enough-items-jei/license), Minecraft Forum: Not Available, Reddit: Not Available, [Source](https://github.com/mezz/JustEnoughItems), [Spotlight](https://www.youtube.com/watch?v=j39wdC2d4XA), [Twitter](https://twitter.com/mezz_mc)
 
+##Ruins 16.1 by AtomicStryker
+
+Ruins is a mod that spawns Structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every Structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!
+
+There is a lot of Structures already included, and there's bound to be more added.
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://minecraft.curseforge.com/projects/ruins-structure-spawning-system/files), [License](http://minecraft.curseforge.com/projects/ruins-structure-spawning-system/license), [Minecraft Forum](http://www.minecraftforum.net/topic/1113099-172-ruins-structure-spawning-system/), [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=9sAmaXIuBpI), [Twitter](https://twitter.com/AtomicStryker)
+
 ##What am I looking at (Waila) 1.7.0-B3 by ProfMobius
 
 Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
