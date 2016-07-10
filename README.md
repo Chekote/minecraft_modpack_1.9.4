@@ -21,7 +21,7 @@ Improves Minecrafts lighting system by allowing moving objects to cast light. Fo
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://minecraft.curseforge.com/projects/dynamic-lights/files), [License](http://minecraft.curseforge.com/projects/dynamic-lights/license), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/184426-172-dynamic-lights-handheld-torches-moving-lightsources), Reddit: Not Available, [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=XE_n3eZKl_c#t=65), [Twitter](https://twitter.com/AtomicStryker)
 
-##Inventory Tweaks 1.61-dev-53 by Kobata
+##Inventory Tweaks 1.61-dev-57 by Kobata
 
 This client mod allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will make you gain a massive amount of time!
 
