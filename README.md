@@ -32,7 +32,7 @@ This client mod allows you to easily manage your inventory, in both single playe
 
 Donate: Not Available, [Download](http://minecraft.curseforge.com/projects/inventory-tweaks/files), [IRC](http://webchat.esper.net/?channels=inventorytweaks), [License](https://github.com/mkalam-alami/inventory-tweaks/blob/develop/LICENSE.md), [Minecraft Forum](http://www.minecraftforum.net/topic/1720872), Reddit: Not Available, [Source](https://github.com/Kobata/inventory-tweaks), [Spotlight](https://www.youtube.com/watch?v=1of4502m_c8), Twitter: Not Available
 
-##Iron Chests 6.0.140.781 by cpw
+##Iron Chests 6.0.146.788 by cpw
 
 Adds many tiered chests, each of which are progressively more expensive to make, but offer a commensurate increase in storage capacity.
 
