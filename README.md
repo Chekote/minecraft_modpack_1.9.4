@@ -38,7 +38,7 @@ Adds many tiered chests, each of which are progressively more expensive to make,
 
 Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
 
-##Just Enough Items 3.4.3.207 by MEzz
+##Just Enough Items 3.6.8.225 by MEzz
 
 JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
 
