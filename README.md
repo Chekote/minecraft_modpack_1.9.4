@@ -1,6 +1,6 @@
 Chekote's Modpack for Minecraft 1.9.4
 
-##Biomes 'o' Plenty 4.1.0.2032 by TheAdubbz
+##Biomes 'o' Plenty 4.1.0.2066 by TheAdubbz
 
 Adds a huge amount of additional biomes, a few creatures and one dimension to the game.
 
